@@ -19,8 +19,8 @@ Para ejecutar este proyecto correctamente, siga estas instrucciones en su entorn
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-cd TU_REPOSITORIO
+git clone https://github.com/estebanandrescastano/modelos_y_simulacion
+cd modelos_y_simulacion
 ```
 
 ### 2. Configurar el entorno de Python
