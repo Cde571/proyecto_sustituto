@@ -2,8 +2,5 @@ pandas
 numpy
 scikit-learn
 joblib
-matplotlib
-seaborn
-notebook
 flask
 requests
